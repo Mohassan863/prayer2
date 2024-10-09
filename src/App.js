@@ -1,5 +1,5 @@
 import './App.css'
-import Prayer from './component/prayer';
+import Prayer from './prayer';
 import { useEffect } from 'react';
 import { useState } from 'react';
 function App() {
